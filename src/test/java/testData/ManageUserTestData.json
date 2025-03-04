@@ -1,0 +1,13 @@
+{
+  "Browser": "chrome",
+  "userName": "admin",
+  "password": "admin123",
+  "menuItemName": "Admin",
+  "employeeInfo": {
+    "userRole": "Admin",
+    "status": "Enabled",
+    "name": "Timothy Lewis Amiano",
+    "userName": "Kareem",
+    "password": "tester123"
+  }
+}
